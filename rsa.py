@@ -144,7 +144,6 @@ def generateKey():
     return rsaKey
 
 
-
 if __name__ == '__main__':
     #生成秘钥
     rsaKey = generateKey()
